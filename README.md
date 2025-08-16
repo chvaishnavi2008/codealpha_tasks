@@ -1,2 +1,2 @@
-# codealpha_task01
+# codealpha_tasks
 hangman game
